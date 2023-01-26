@@ -29,3 +29,8 @@
 /home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.web.pdb
 /home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.web.genruntimeconfig.cache
 /home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/ref/Tarefas.web.dll
+/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DTO.dll
+/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DTO.pdb
+/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.web.csproj.CopyComplete
