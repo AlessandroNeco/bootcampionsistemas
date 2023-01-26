@@ -1,10 +1,5 @@
 @model Tarefas.Web.Models.TarefaViewModel
 
-<script>
-function goBack() {
-    window.history.back()
-}
-</script>
 
 <form asp-action = "Create">
     <div>
@@ -18,4 +13,4 @@ function goBack() {
     </div>
 </form>
 
-<a asp-action="Details" asp-controller="Tarefas" onclick="goBack()"> Voltar</a>
+<a asp-action="Index" asp-controller="Tarefas" > Voltar</a>
