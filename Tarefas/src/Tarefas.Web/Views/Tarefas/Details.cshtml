@@ -1,6 +1,12 @@
 @model Tarefas.Web.Models.TarefaViewModel
 
-<form asp-action = "Details">
+<script>
+function goBack() {
+    window.history.back()
+}
+</script>
+
+<form asp-action = "Create">
     <div>
     @Html.LabelFor(model => model.Titulo, new {@class = "form-label"})
     @Html.TextBoxFor(model => model.Titulo, new {@class = "form-control", @readonly = "true"})
@@ -12,4 +18,4 @@
     </div>
 </form>
 
-<a type="button" asp-action="Details" asp-controller="Tarefas" > Voltar</a>
+<a asp-action="Details" asp-controller="Tarefas" onclick="goBack()"> Voltar</a>

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XlBY1ht0VlY9g0up+bdOLi0zoWTBhYTW8FvDbgtAXYUVyYJ7mcUOP2VjI67bcp3CdT6RaG8Zf5l5nF27XOLRNQ==",
+  "dgSpecHash": "qXvN5jxi4hgBZYm/NPk6jAxaxnaAZrbXQajVGr0H3ysg9jv6bsZwIx/DZbtyfPP0W3/NLP33mlbtFLBTqWy+vw==",
   "success": true,
   "projectFilePath": "/home/decom/Área de Trabalho/bootcampion/bootcampionsistemas/Tarefas/src/Tarefas.Web/Tarefas.web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/decom/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
+    "/home/decom/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.2/stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "/home/decom/.nuget/packages/system.data.sqlite.core/1.0.113.7/system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
   "logs": []
 }

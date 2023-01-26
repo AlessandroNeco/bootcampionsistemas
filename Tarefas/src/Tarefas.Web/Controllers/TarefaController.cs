@@ -2,10 +2,10 @@ using Microsoft.AspNetCore.Mvc;
 using Tarefas.Web.Models;
 
 namespace Tarefas.Web.Controllers{
-    public class TarefaController : Controller{
+    public class TarefasController : Controller{
 
         public List<TarefaViewModel> listaDeTarefas{get;set;}
-        public TarefaController()
+        public TarefasController()
         {
              listaDeTarefas = new List<TarefaViewModel>()
             {
